@@ -1,6 +1,4 @@
-# Elmy
 
-This repository addresses the [electricity price prediction data challenge](https://challengedata.ens.fr/participants/challenges/140/) proposed by Elmy in 2024.
 
 ## Import the Data
 
